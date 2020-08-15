@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Bun World
 
 You can use the [editor on GitHub](https://github.com/bunbunbun777/bunyourworld/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
